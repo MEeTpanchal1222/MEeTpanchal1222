@@ -5,7 +5,13 @@
 - 🌱 I’m currently learning C,C++, Dart,core flutter,advanced  flutter
 - 💞️ I’m looking to collaborate on Flutter developers 
 - 📫 How to reach me panchalmeetr97@gmail.com
+<h3 align="left">🔥   My Stats :</h3>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 <!---
 MEeTpanchal1222/MEeTpanchal1222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
